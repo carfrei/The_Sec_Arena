@@ -161,7 +161,7 @@ _Projects section populated as new security research and labs are completed._
 - **Email:** drcarfrei@proton.me
 - **LinkedIn:** https://www.linkedin.com/in/carlos-freiermuth
 - **HackTheBox:** 
-![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
+- **![HTB Badge](https://www.hackthebox.com/badge/image/2991649)**
 
 ---
 
