@@ -1,0 +1,62 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Documentation (Local only)
+docs/
+
+# Logs
+*.log
+*.logs
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Security & Credentials
+secrets/
+private_keys/
+credentials.json
+*.pem
+*.key
+
+# Node (if using Node.js)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Virtual Machines & Backups
+*.iso
+*.vmdk
+*.vdi
+backups/
+
+# History & Temp
+.bash_history
+.zsh_history
+.history
+
+# Project specific
+*.bak
+temp/
+tmp/
