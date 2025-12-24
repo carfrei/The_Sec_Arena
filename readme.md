@@ -145,7 +145,7 @@ _Projects section populated as new security research and labs are completed._
 
 ---
 
-## 📊 2025 Learning Goals
+## 📊 2026 Learning Goals
 
 - [ ] Complete 50+ machines on HackTheBox/TryHackMe
 - [ ] Master OWASP Top 10 with practical labs
@@ -160,7 +160,8 @@ _Projects section populated as new security research and labs are completed._
 
 - **Email:** drcarfrei@proton.me
 - **LinkedIn:** https://www.linkedin.com/in/carlos-freiermuth
-- **HackTheBox:** ![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
+- **HackTheBox:** 
+![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
 
 ---
 
