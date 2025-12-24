@@ -1,133 +1,162 @@
 # 🛡️ The Sec Arena
 
-**Security Enthusiast | Estudiante de Ciberseguridad | Cybersecurity Researcher & Developer**
+**Cybersecurity Researcher & Developer | Ethical Hacker | Security Analyst**
 
-Bienvenido a mi repositorio de aprendizaje en seguridad informática y hacking ético. Este espacio documenta mi camino en el mundo de la ciberseguridad, donde compartiré proyectos de práctica, notas de estudio, laboratorios y recursos de aprendizaje en pentesting, análisis de vulnerabilidades y seguridad ofensiva/defensiva.
+Repository documenting my journey in offensive and defensive cybersecurity. This space showcases hands-on labs, pentesting projects, security research, vulnerability analysis, and tool development focused on real-world security scenarios.
 
-📊 **En camino al dominio:**
-- 🎯 **Aprendiendo** Web Application Security, Network Security, y más
-- 📚 **Documentando** cada desafío, laboratorio y práctica
-- 🔧 **Desarrollando** scripts y herramientas de práctica
-- 🤝 **100% Ético** - Siempre con autorización y fines educativos
+📊 **Current Focus:**
+- 🎯 **Active Learning** Web Application Security, Network Security, Cloud Security
+- 📚 **Documenting** Labs, CTFs, and real-world scenarios
+- 🔧 **Developing** Security tools, automation scripts, and exploitation frameworks
+- 🤝 **100% Ethical** - All activities with proper authorization and educational intent
 
 ---
 
-## 🔍 Estructura del Repositorio
+## � Repository Structure
 
-A medida que avance en mi aprendizaje, este repositorio se organizará por:
+This repository is organized for scalability as new security projects are added:
 
-- ✅ **Laboratorios de Práctica** - Entornos controlados y CTFs
-- 📸 **Write-ups** - Documentación de desafíos resueltos
-- 🔗 **Recursos** - Enlaces a documentación y cursos
-- 📊 **Scripts y Herramientas** - Proyectos de automatización
+- ✅ **CTF Write-ups** - Documented solutions and methodology
+- 🔬 **Pentesting Labs** - Full assessments with findings
+- 🔗 **Security Research** - Vulnerability analysis and PoCs
+- 📊 **Tools & Automation** - Custom security utilities
+- 🎯 **OSINT Projects** - Information gathering and analysis
 
-**Áreas de estudio:**
+**Focus Areas:**
 - 🌐 **Web Application Security**
-- 🔌 **Network Security**
-- 📱 **Mobile Security**
+- 🔌 **Network & Infrastructure Security**
 - ☁️ **Cloud Security**
-- 🔐 **Cryptography**
-- 🔍 **OSINT**
+- 🔐 **Cryptography & Authentication**
+- 🔍 **OSINT & Threat Intelligence**
 - 🛠️ **Tool Development**
+- 📱 **Mobile & API Security**
 
 ---
 
-## 🎯 Proyectos y Laboratorios
+## 🎯 Projects & Labs
 
-_Esta sección se irá poblando con proyectos de práctica y laboratorios completados._
+_Projects section populated as new security research and labs are completed._
+
+**Status Overview:**
+| Category | Status | Details |
+|----------|--------|---------|
+| CTF Write-ups | 📋 Planned | HackTheBox, TryHackMe, PortSwigger solutions |
+| Pentesting Labs | 🔄 Active | Full assessments and vulnerability research |
+| Tool Development | 🔄 Active | Python security utilities and automation |
+| Security Research | 📋 Planned | Vulnerability disclosures and PoCs |
 
 ---
 
-## 🛠️ Stack Tecnológico en Aprendizaje
+## 🛠️ Technical Stack
 
-### Herramientas de Pentesting
+### Penetration Testing Tools
 - **Web:** Burp Suite Community, OWASP ZAP, Nikto, SQLMap
 - **Network:** Nmap, Wireshark, tcpdump, Netcat
-- **Exploitation:** Metasploit Framework
+- **Exploitation:** Metasploit Framework, SearchSploit
 - **Scripting:** Python, Bash
 
-### Frameworks y Metodologías
-- **OWASP Top 10** (Web Application Security)
-- **PTES** (Penetration Testing Execution Standard)
-- **MITRE ATT&CK** Framework
-- **Kill Chain** Analysis
+### Security Frameworks & Methodologies
+- **OWASP Top 10** - Web Application Security
+- **PTES** - Penetration Testing Execution Standard
+- **MITRE ATT&CK** - Threat modeling and adversary tactics
+- **Kill Chain Analysis** - Attack flow documentation
 
-### Plataformas de Práctica
+### Practice Platforms
 - **CTF:** HackTheBox, TryHackMe, PentesterLab
-- **Bug Bounty:** HackerOne, Bugcrowd (modo aprendizaje)
 - **Labs:** PortSwigger Web Security Academy, DVWA
+- **Bug Bounty:** HackerOne, Bugcrowd
 
-### Sistemas Operativos
-- **Pentesting:** Kali Linux, Parrot OS
-- **Entornos:** VirtualBox/VMware para laboratorios
+### Operating Systems & Environments
+- **Penetration:** Kali Linux, Parrot OS
+- **Infrastructure:** Ubuntu Server, CentOS
+- **Virtualization:** VirtualBox, Proxmox
 
-### Lenguajes de Programación
-- **Scripting:** Python, Bash
-- **Web:** JavaScript (análisis de vulnerabilidades)
-- **Bases de Datos:** SQL (inyecciones y seguridad)
-
----
-
-## 🎯 Áreas de Enfoque Actual
-
-| Área                         | Estado     | Conceptos Clave                                       |
-| ---------------------------- | ---------- | ----------------------------------------------------- |
-| **Web Application Security** | 🔄 Activo   | OWASP Top 10, SQLi, XSS, CSRF, IDOR                   |
-| **Network Security**         | 🔄 Activo   | Port scanning, Service enumeration, Protocol analysis |
-| **Linux Security**           | 🔄 Activo   | Privilege escalation, File permissions, Hardening     |
-| **Scripting & Automation**   | 🔄 Activo   | Python security tools, Bash automation                |
-| **API Security**             | 📋 Planeado | REST/GraphQL testing, JWT, Rate limiting              |
-| **Cloud Security**           | 📋 Planeado | AWS/Azure basics, IAM, Misconfigurations              |
-| **Mobile Security**          | 📋 Futuro   | Android/iOS basics, APK analysis                      |
+### Programming Languages
+- **Scripting:** Python (security tools, automation)
+- **Exploitation:** Bash, Python
+- **Web Security:** JavaScript (client-side analysis)
+- **Databases:** SQL (injection testing)
 
 ---
 
-## � Recursos de Aprendizaje
+## 💻 Primary Workstation
 
-### Cursos y Plataformas
-- 🎓 **HackTheBox Academy** - Módulos de seguridad web y network
-- 🎓 **TryHackMe** - Learning paths estructurados
-- 🎓 **PortSwigger Web Security Academy** - Laboratorios prácticos gratuitos
-- 🎓 **OWASP** - Documentación y guías de seguridad
+- **OS:** Parrot Security OS 6.4 (Lorikeet)
+- **Kernel:** Linux
+- **Pre-installed Tools:** Full penetration testing suite
+- **Architecture:** Ready for offensive and defensive security research
 
-### Lecturas Recomendadas
+---
+
+## 🏆 Active Learning Platforms
+
+- 🎯 **HackTheBox** - Real-world penetration testing challenges
+- 📚 **TryHackMe** - Structured security learning paths
+- 🔬 **PortSwigger Web Security Academy** - Industry-standard web security labs
+
+---
+
+---
+
+## 🎯 Active Focus Areas
+
+| Focus Area | Status | Key Concepts |
+|-----------|--------|--------------|
+| **Web Application Security** | 🔄 Active | OWASP Top 10, SQLi, XSS, CSRF, IDOR, XXE |
+| **Network Security** | 🔄 Active | Port scanning, Service enumeration, Protocol analysis |
+| **Linux Hardening** | 🔄 Active | Privilege escalation, File permissions, Security configs |
+| **Scripting & Automation** | 🔄 Active | Python tools, Bash automation, Exploit development |
+| **API Security** | 📋 Planned | REST/GraphQL testing, JWT, Rate limiting, OWASP |
+| **Cloud Security** | 📋 Planned | AWS/Azure security, IAM, Misconfigurations |
+| **Mobile Security** | 📋 Planned | Android/iOS basics, APK analysis, Frida |
+
+---
+
+## 📚 Learning Resources
+
+### Platforms & Courses
+- 🎓 **HackTheBox Academy** - Structured modules on web and network security
+- 🎓 **TryHackMe** - Interactive learning paths
+- 🎓 **PortSwigger Web Security Academy** - Free comprehensive labs
+- 🎓 **OWASP** - Documentation and security guidelines
+
+### Recommended Reading
 - 📖 **The Web Application Hacker's Handbook**
 - 📖 **Hacking: The Art of Exploitation**
-- � **OWASP Testing Guide**
-- � **Google Hacking Database**
+- 📖 **OWASP Testing Guide**
+- 📖 **MITRE ATT&CK Framework**
 
-### Comunidades
+### Communities
 - 💬 **HackTheBox Forums**
-- 💬 **Reddit** - r/netsec, r/AskNetsec
-- � **Discord** - Servidores de ciberseguridad
-
+- 💬 **OWASP Community**
+- 💬 **Security Stack Exchange**
 ---
 
-## ⚠️ Aviso Legal y Ética
+## 🔐 Legal & Ethics Notice
 
-> **IMPORTANTE:** Todos los proyectos, herramientas y técnicas presentados en este repositorio son para **fines educativos y de investigación en seguridad informática**.
+> **IMPORTANT:** All projects, tools, and techniques presented in this repository are for **educational and security research purposes only**.
 >
-> - ✅ **Hacking Ético**: Todas las pruebas se realizan en entornos controlados o con autorización explícita
-> - ✅ **Aprendizaje Responsable**: Sigo las mejores prácticas de responsible disclosure
-> - ✅ **Cumplimiento Legal**: Respeto todas las leyes y regulaciones aplicables
-> - ❌ **No mal uso**: No me hago responsable del mal uso de la información aquí compartida
+> - ✅ **Ethical Hacking**: All testing conducted in controlled environments or with explicit authorization
+> - ✅ **Responsible Disclosure**: Following best practices for vulnerability reporting
+> - ✅ **Legal Compliance**: Respecting all applicable laws and regulations
+> - ❌ **No Misuse**: Not responsible for unauthorized use of information shared here
 >
-> El uso no autorizado de estas técnicas contra sistemas sin permiso explícito es **ILEGAL** y va en contra de los principios del hacking ético.
+> Unauthorized testing against systems without explicit permission is **ILLEGAL** and violates ethical hacking principles.
 
 ---
 
-## 📈 Objetivos de Aprendizaje 2025
+## 📊 2025 Learning Goals
 
-- [ ] Completar 50+ máquinas en HackTheBox/TryHackMe
-- [ ] Dominar OWASP Top 10 con laboratorios prácticos
-- [ ] Desarrollar 10+ scripts de automatización en Python
-- [ ] Obtener primera certificación en ciberseguridad
-- [ ] Participar en 5+ CTFs
-- [ ] Contribuir a proyectos open source de seguridad
+- [ ] Complete 50+ machines on HackTheBox/TryHackMe
+- [ ] Master OWASP Top 10 with practical labs
+- [ ] Develop 10+ Python automation scripts
+- [ ] Earn first security certification
+- [ ] Participate in 5+ CTFs
+- [ ] Contribute to open-source security projects
 
 ---
 
-## 📞 Contacto
+## 📞 Contact
 
 - **Email:** drcarfrei@proton.me
 - **LinkedIn:** https://www.linkedin.com/in/carlos-freiermuth
@@ -135,6 +164,4 @@ _Esta sección se irá poblando con proyectos de práctica y laboratorios comple
 
 ---
 
-**Última actualización:** Diciembre 2025
-**Estado:** 🌱 En crecimiento y aprendizaje constante
-**Localización:** Quito, Ecuador 🇪🇨
+**Last Updated:** December 2025 | **Status:** 🌱 Active Learning | **Location:** Quito, Ecuador 🇪🇨 | **License:** MIT
