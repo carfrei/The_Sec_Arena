@@ -2,9 +2,7 @@
 
 OverTheWire Bandit wargame - Introduction to Linux command line and SSH basics.
 
-**Progress:** 0/17 (0%)
-
-![Progress](https://progress-bar.dev/0/?scale=17&suffix=%20/17)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/17 (0%)
 
 | Level | Status | Write-up |
 |-------|--------|----------|

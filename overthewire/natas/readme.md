@@ -2,9 +2,7 @@
 
 OverTheWire Natas wargame - Web application security vulnerabilities from source code perspective.
 
-**Progress:** 0/34 (0%)
-
-![Progress](https://progress-bar.dev/0/?scale=34&suffix=%20/34)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/34 (0%)
 
 | Level Range | Status | Count |
 |-------------|--------|-------|

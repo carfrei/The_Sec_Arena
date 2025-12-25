@@ -2,9 +2,7 @@
 
 Cryptographic challenges including cipher identification, hash cracking, and symmetric/asymmetric cryptography.
 
-**Progress:** 0/25+ (0%)
-
-![Progress](https://progress-bar.dev/0/?scale=25&suffix=%20/)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/25+ (0%)
 
 ---
 

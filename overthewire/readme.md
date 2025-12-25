@@ -6,13 +6,13 @@ Linear progression wargames focusing on fundamentals and Unix/Linux skills.
 
 ## 📈 Progress
 
-| Series | Progress | Status |
-|--------|----------|--------|
-| **Bandit** | ![Progress](https://progress-bar.dev/0/?scale=17&suffix=%20/17) | 0/17 |
-| **Natas** | ![Progress](https://progress-bar.dev/0/?scale=34&suffix=%20/34) | 0/34 |
-| **Leviathan** | ![Progress](https://progress-bar.dev/0/?scale=8&suffix=%20/8) | 0/8 |
-| **Krypton** | ![Progress](https://progress-bar.dev/0/?scale=10&suffix=%20/10%2B) | 0/10+ |
-| **Total OTW** | ![Progress](https://progress-bar.dev/0/?scale=59&suffix=%20/59%2B) | **0/59+** |
+| Series | Progress | Count |
+|--------|----------|-------|
+| **Bandit** | ⬜⬜⬜⬜⬜ | 0/17 (0%) |
+| **Natas** | ⬜⬜⬜⬜⬜ | 0/34 (0%) |
+| **Leviathan** | ⬜⬜⬜⬜⬜ | 0/8 (0%) |
+| **Krypton** | ⬜⬜⬜⬜⬜ | 0/10+ (0%) |
+| **Total OTW** | ⬜⬜⬜⬜⬜ | **0/59+ (0%)** |
 
 ---
 

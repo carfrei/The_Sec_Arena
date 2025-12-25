@@ -2,9 +2,7 @@
 
 Beginner-friendly vulnerable VMs with clear exploitation paths. Good starting point for learning penetration testing fundamentals.
 
-**Progress:** 0/150+ (0%)
-
-![Progress](https://progress-bar.dev/0/?scale=150&suffix=%20/)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/150+ (0%)
 
 ---
 

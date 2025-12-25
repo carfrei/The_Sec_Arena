@@ -2,9 +2,7 @@
 
 Realistic vulnerable VMs requiring multi-stage exploitation and privilege escalation. More challenging than easy machines.
 
-**Progress:** 0/200+ (0%)
-
-![Progress](https://progress-bar.dev/0/?scale=200&suffix=%20/)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/200+ (0%)
 
 ---
 

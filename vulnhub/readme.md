@@ -6,13 +6,13 @@ Vulnerable virtual machines for realistic penetration testing practice.
 
 ## 📈 Progress
 
-| Difficulty | Progress | Status |
-|-----------|----------|--------|
-| **Easy** | ![Progress](https://progress-bar.dev/0/?scale=150&suffix=%20/150) | 0/150 |
-| **Medium** | ![Progress](https://progress-bar.dev/0/?scale=200&suffix=%20/200) | 0/200 |
-| **Hard** | ![Progress](https://progress-bar.dev/0/?scale=120&suffix=%20/120) | 0/120 |
-| **Insane** | ![Progress](https://progress-bar.dev/0/?scale=30&suffix=%20/30) | 0/30 |
-| **Total VulnHub** | ![Progress](https://progress-bar.dev/0/?scale=500&suffix=%20/500%2B) | **0/500+** |
+| Difficulty | Progress | Count |
+|-----------|----------|-------|
+| **Easy** | ⬜⬜⬜⬜⬜ | 0/150 (0%) |
+| **Medium** | ⬜⬜⬜⬜⬜ | 0/200 (0%) |
+| **Hard** | ⬜⬜⬜⬜⬜ | 0/120 (0%) |
+| **Insane** | ⬜⬜⬜⬜⬜ | 0/30 (0%) |
+| **Total VulnHub** | ⬜⬜⬜⬜⬜ | **0/500+ (0%)** |
 
 ---
 

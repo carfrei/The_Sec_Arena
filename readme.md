@@ -15,13 +15,13 @@ Repository documenting my journey in offensive and defensive cybersecurity. This
 
 **Tracking my journey toward mastery across multiple platforms:**
 
-| Platform | Progress | Link |
-|----------|----------|------|
-| **HackTheBox** | ![Progress](https://progress-bar.dev/1/?scale=1442&suffix=%20/1442) | [View →](htb/readme.md) |
-| **OverTheWire** | ![Progress](https://progress-bar.dev/0/?scale=59&suffix=%20/59%2B) | [View →](overthewire/readme.md) |
-| **PicoCTF** | ![Progress](https://progress-bar.dev/0/?scale=100&suffix=%20/100%2B) | [View →](picoctf/readme.md) |
-| **VulnHub** | ![Progress](https://progress-bar.dev/0/?scale=500&suffix=%20/500%2B) | [View →](vulnhub/readme.md) |
-| **Tools** | ✅ Log Analysis (ALPHA) | [View →](tools/readme.md) |
+| Platform | Progress | Count | Link |
+|----------|----------|-------|------|
+| **HackTheBox** | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 1/1442 (0.1%) | [View →](htb/) |
+| **OverTheWire** | ⬜⬜⬜⬜⬜ | 0/59 (0%) | [View →](overthewire/) |
+| **PicoCTF** | ⬜⬜⬜⬜⬜ | 0/100 (0%) | [View →](picoctf/) |
+| **VulnHub** | ⬜⬜⬜⬜⬜ | 0/500 (0%) | [View →](vulnhub/) |
+| **Tools** | 🟦⬜⬜⬜⬜ | 1/5 (ALPHA) | [View →](tools/) |
 
 **Grand Total:** 1/2100+ (0.05%)
 

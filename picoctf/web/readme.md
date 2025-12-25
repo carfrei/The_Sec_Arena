@@ -2,9 +2,7 @@
 
 Web application security challenges including HTTP vulnerabilities, SQL injection, XSS, CSRF, and more.
 
-**Progress:** 0/20+ (0%)
-
-![Progress](https://progress-bar.dev/0/?scale=20&suffix=%20/)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/20+ (0%)
 
 ---
 

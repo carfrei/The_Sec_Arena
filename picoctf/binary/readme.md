@@ -2,9 +2,7 @@
 
 Low-level exploitation challenges including buffer overflows, return-oriented programming, and heap exploitation.
 
-**Progress:** 0/20+ (0%)
-
-![Progress](https://progress-bar.dev/0/?scale=20&suffix=%20/)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/20+ (0%)
 
 ---
 

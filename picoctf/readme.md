@@ -6,14 +6,14 @@ Capture The Flag competition with categorized security challenges.
 
 ## 📈 Progress
 
-| Category | Progress | Status |
-|----------|----------|--------|
-| **Web Exploitation** | ![Progress](https://progress-bar.dev/0/?scale=20&suffix=%20/20) | 0/20 |
-| **Reverse Engineering** | ![Progress](https://progress-bar.dev/0/?scale=15&suffix=%20/15) | 0/15 |
-| **Forensics** | ![Progress](https://progress-bar.dev/0/?scale=15&suffix=%20/15) | 0/15 |
-| **Cryptography** | ![Progress](https://progress-bar.dev/0/?scale=25&suffix=%20/25) | 0/25 |
-| **Binary Exploitation** | ![Progress](https://progress-bar.dev/0/?scale=20&suffix=%20/20) | 0/20 |
-| **Total PicoCTF** | ![Progress](https://progress-bar.dev/0/?scale=100&suffix=%20/100%2B) | **0/100+** |
+| Category | Progress | Count |
+|----------|----------|-------|
+| **Web Exploitation** | ⬜⬜⬜⬜⬜ | 0/20 (0%) |
+| **Reverse Engineering** | ⬜⬜⬜⬜⬜ | 0/15 (0%) |
+| **Forensics** | ⬜⬜⬜⬜⬜ | 0/15 (0%) |
+| **Cryptography** | ⬜⬜⬜⬜⬜ | 0/25 (0%) |
+| **Binary Exploitation** | ⬜⬜⬜⬜⬜ | 0/20 (0%) |
+| **Total PicoCTF** | ⬜⬜⬜⬜⬜ | **0/100+ (0%)** |
 
 ---
 

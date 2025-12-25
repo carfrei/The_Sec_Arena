@@ -2,9 +2,7 @@
 
 Cutting-edge vulnerable VMs for advanced researchers. Feature sophisticated exploitation techniques, custom malware, and forensic challenges.
 
-**Progress:** 0/30+ (0%)
-
-![Progress](https://progress-bar.dev/0/?scale=30&suffix=%20/)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/30+ (0%)
 
 ---
 
