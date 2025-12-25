@@ -1,6 +1,6 @@
 # 🛡️ The Sec Arena
 
-**Cybersecurity Researcher & Developer | Ethical Hacker | Security Analyst**
+**DrCarfrei - Cybersecurity Researcher & Developer | Ethical Hacker | Security Analyst**
 
 Repository documenting my journey in offensive and defensive cybersecurity. This space showcases hands-on labs, pentesting projects, security research, vulnerability analysis, and tool development focused on real-world security scenarios.
 
@@ -11,39 +11,50 @@ Repository documenting my journey in offensive and defensive cybersecurity. This
 - 🤝 **100% Ethical** - All activities with proper authorization and educational intent
 
 ---
+## 📈 Challenge Progress
 
+**Tracking my journey toward HTB mastery:**
+
+```
+Sherlocks:    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1/129 (1%)
+Machines:     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0/509 (0%)
+Challenges:   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0/804 (0%)
+Tools:        ✅ Log Analysis (ALPHA)
+
+**Grand Total:** 1/1442 (0.1%)
+```
+
+*Portfolio in active development - tracking progress publicly for accountability*
+
+---
 ## � Repository Structure
 
-This repository is organized for scalability as new security projects are added:
+Organized by platform to support multiple learning sources:
 
-- ✅ **CTF Write-ups** - Documented solutions and methodology
-- 🔬 **Pentesting Labs** - Full assessments with findings
-- 🔗 **Security Research** - Vulnerability analysis and PoCs
-- 📊 **Tools & Automation** - Custom security utilities
-- 🎯 **OSINT Projects** - Information gathering and analysis
-
-**Focus Areas:**
-- 🌐 **Web Application Security**
-- 🔌 **Network & Infrastructure Security**
-- ☁️ **Cloud Security**
-- 🔐 **Cryptography & Authentication**
-- 🔍 **OSINT & Threat Intelligence**
-- 🛠️ **Tool Development**
-- 📱 **Mobile & API Security**
+- 🎓 **[HackTheBox](htb/)** - Sherlocks, Machines, Challenges (1/1442 completed)
+- 📖 **TryHackMe** - Coming soon
+- 🎒 **PortSwigger** - Coming soon
+- 🛠️ **[Tools](tools/)** - Custom security utilities (ALPHA)
+- 📚 **[Documentation](docs/)** - Workflow and standards
 
 ---
 
-## 🎯 Projects & Labs
-
-_Projects section populated as new security research and labs are completed._
+## 🎯 Learning Categories
 
 **Status Overview:**
-| Category | Status | Details |
-|----------|--------|---------|
-| CTF Write-ups | 📋 Planned | HackTheBox, TryHackMe, PortSwigger solutions |
-| Pentesting Labs | 🔄 Active | Full assessments and vulnerability research |
-| Tool Development | 🔄 Active | Python security utilities and automation |
-| Security Research | 📋 Planned | Vulnerability disclosures and PoCs |
+
+| Category | Platform | Completed | Details |
+|----------|----------|-----------|---------|
+| 🔍 **Sherlocks** | HackTheBox | 1/129 | [View →](htb/sherlocks/readme.md) |
+| 🖥️ **Machines** | HackTheBox | 0/509 | [View →](htb/machines/readme.md) |
+| 🎯 **Challenges** | HackTheBox | 0/804 | [View →](htb/challenges/readme.md) |
+| 📚 **Courses** | TryHackMe | 0 | Coming soon |
+| 🛠️ **Tools** | Custom | 1 (ALPHA) | [View →](tools/readme.md) |
+
+### Quick Stats
+- **Total Completed:** 1/1442 (0.1%)
+- **HackTheBox:** 1/1442 total (Sherlocks: 1/129, Machines: 0/509, Challenges: 0/804)
+- **Focus:** Forensics, Web Security, Programming, Cryptography, Reverse Engineering
 
 ---
 
@@ -156,12 +167,17 @@ _Projects section populated as new security research and labs are completed._
 
 ---
 
-## 📞 Contact
+## 📞 Contact & Profiles
 
+- **Handle:** DrCarfrei (White Hat Security Researcher)
 - **Email:** drcarfrei@proton.me
 - **LinkedIn:** https://www.linkedin.com/in/carlos-freiermuth
-- **HackTheBox:** 
-- **![HTB Badge](https://www.hackthebox.com/badge/image/2991649)**
+
+### HackTheBox Profile
+
+![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
+
+*Profile actively tracking HTB progress and security research journey*
 
 ---
 

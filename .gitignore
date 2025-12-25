@@ -4,8 +4,9 @@
 .env.*.local
 .env.production
 
-# Documentation (Local only)
-docs/
+# Documentation (Templates are private, docs/ structure is public)
+docs/templates/
+docs/private/
 
 # Logs
 *.log
