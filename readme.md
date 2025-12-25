@@ -32,8 +32,9 @@ Tools:        ✅ Log Analysis (ALPHA)
 Organized by platform to support multiple learning sources:
 
 - 🎓 **[HackTheBox](htb/)** - Sherlocks, Machines, Challenges (1/1442 completed)
-- 📖 **TryHackMe** - Coming soon
-- 🎒 **PortSwigger** - Coming soon
+- 🎮 **[OverTheWire](overthewire/)** - Wargames (Bandit, Natas, Leviathan, Krypton)
+- 🏆 **[PicoCTF](picoctf/)** - CTF challenges by category
+- 💀 **[VulnHub](vulnhub/)** - Vulnerable VMs for local exploitation
 - 🛠️ **[Tools](tools/)** - Custom security utilities (ALPHA)
 - 📚 **[Documentation](docs/)** - Workflow and standards
 

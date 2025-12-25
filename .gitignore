@@ -5,8 +5,7 @@
 .env.production
 
 # Documentation (Templates are private, docs/ structure is public)
-docs/templates/
-docs/private/
+docs
 
 # Logs
 *.log
