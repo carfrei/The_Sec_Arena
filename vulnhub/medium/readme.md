@@ -4,6 +4,8 @@ Realistic vulnerable VMs requiring multi-stage exploitation and privilege escala
 
 **Progress:** 0/200+ (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=200&suffix=%20/)
+
 ---
 
 ## Typical Characteristics

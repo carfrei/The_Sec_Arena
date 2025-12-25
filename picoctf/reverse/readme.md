@@ -4,6 +4,8 @@ Binary analysis, disassembly, and decompilation challenges to understand executa
 
 **Progress:** 0/15+ (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=15&suffix=%20/)
+
 ---
 
 ## Challenge Types

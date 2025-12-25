@@ -4,6 +4,8 @@ Cryptographic challenges including cipher identification, hash cracking, and sym
 
 **Progress:** 0/25+ (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=25&suffix=%20/)
+
 ---
 
 ## Challenge Types

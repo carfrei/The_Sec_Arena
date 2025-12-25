@@ -4,6 +4,8 @@ Beginner-friendly vulnerable VMs with clear exploitation paths. Good starting po
 
 **Progress:** 0/150+ (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=150&suffix=%20/)
+
 ---
 
 ## Typical Learning Path

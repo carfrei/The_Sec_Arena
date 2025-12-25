@@ -4,6 +4,8 @@ Cutting-edge vulnerable VMs for advanced researchers. Feature sophisticated expl
 
 **Progress:** 0/30+ (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=30&suffix=%20/)
+
 ---
 
 ## Typical Characteristics

@@ -4,6 +4,8 @@ Data recovery, analysis, and investigation challenges including deleted file rec
 
 **Progress:** 0/15+ (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=15&suffix=%20/)
+
 ---
 
 ## Challenge Types

@@ -4,6 +4,8 @@ Low-level exploitation challenges including buffer overflows, return-oriented pr
 
 **Progress:** 0/20+ (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=20&suffix=%20/)
+
 ---
 
 ## Challenge Types

@@ -4,6 +4,8 @@ Complex vulnerable VMs requiring advanced exploitation techniques, custom vulner
 
 **Progress:** 0/120+ (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=120&suffix=%20/)
+
 ---
 
 ## Typical Characteristics

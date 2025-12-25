@@ -4,6 +4,8 @@ OverTheWire Leviathan wargame - Linux privilege escalation techniques and vulner
 
 **Progress:** 0/8 (0%)
 
+![Progress](https://progress-bar.dev/0/?scale=8&suffix=%20/8)
+
 | Level | Status | Write-up |
 |-------|--------|----------|
 | 0→1 | ⬜ Not Started | - |

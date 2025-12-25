@@ -13,16 +13,17 @@ Repository documenting my journey in offensive and defensive cybersecurity. This
 ---
 ## 📈 Challenge Progress
 
-**Tracking my journey toward HTB mastery:**
+**Tracking my journey toward mastery across multiple platforms:**
 
-```
-Sherlocks:    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1/129 (1%)
-Machines:     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0/509 (0%)
-Challenges:   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0/804 (0%)
-Tools:        ✅ Log Analysis (ALPHA)
+| Platform | Progress | Link |
+|----------|----------|------|
+| **HackTheBox** | ![Progress](https://progress-bar.dev/1/?scale=1442&suffix=%20/1442) | [View →](htb/readme.md) |
+| **OverTheWire** | ![Progress](https://progress-bar.dev/0/?scale=59&suffix=%20/59%2B) | [View →](overthewire/readme.md) |
+| **PicoCTF** | ![Progress](https://progress-bar.dev/0/?scale=100&suffix=%20/100%2B) | [View →](picoctf/readme.md) |
+| **VulnHub** | ![Progress](https://progress-bar.dev/0/?scale=500&suffix=%20/500%2B) | [View →](vulnhub/readme.md) |
+| **Tools** | ✅ Log Analysis (ALPHA) | [View →](tools/readme.md) |
 
-**Grand Total:** 1/1442 (0.1%)
-```
+**Grand Total:** 1/2100+ (0.05%)
 
 *Portfolio in active development - tracking progress publicly for accountability*
 
