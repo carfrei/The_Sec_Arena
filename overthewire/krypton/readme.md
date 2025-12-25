@@ -2,7 +2,7 @@
 
 OverTheWire Krypton wargame - Cryptographic challenges and cipher breaking techniques.
 
-**Progress:** 0/? (0%)
+**Progress:** ⬜⬜⬜⬜⬜ | 0/? (0%)
 
 Levels coming soon...
 
