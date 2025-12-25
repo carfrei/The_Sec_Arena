@@ -12,7 +12,7 @@ Foundational programming and security challenges.
 
 ## 📈 Progress
 
-**0/333 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/333 completed (0%)**
 
 ---
 

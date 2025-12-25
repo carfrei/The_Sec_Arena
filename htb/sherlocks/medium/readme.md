@@ -12,7 +12,7 @@ Intermediate forensics challenges. Require multi-source analysis and advanced lo
 
 ## 📈 Progress
 
-**0/33 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/33 completed (0%)**
 
 ---
 

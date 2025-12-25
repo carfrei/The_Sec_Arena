@@ -12,7 +12,7 @@ Intermediate programming, cryptography, and reverse engineering challenges.
 
 ## 📈 Progress
 
-**0/257 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/257 completed (0%)**
 
 ---
 

@@ -12,7 +12,7 @@ Expert-level challenges requiring mastery of multiple domains.
 
 ## 📈 Progress
 
-**0/18 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/18 completed (0%)**
 
 ---
 

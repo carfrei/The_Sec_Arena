@@ -12,7 +12,7 @@ Beginner-level programming and security challenges.
 
 ## 📈 Progress
 
-**0/103 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/103 completed (0%)**
 
 ---
 

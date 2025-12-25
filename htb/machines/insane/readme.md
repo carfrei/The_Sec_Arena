@@ -16,7 +16,7 @@ Expert-level penetration testing challenges. Require mastery of exploitation tec
 
 ## Progress
 
-*(Machines completed will be listed here)*
+⬜⬜⬜⬜⬜ | **0/66 completed (0%)**
 
 | Machine | Platform | Category | Date | Status |
 |---------|----------|----------|------|--------|

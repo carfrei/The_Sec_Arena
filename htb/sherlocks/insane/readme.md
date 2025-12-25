@@ -12,7 +12,7 @@ Expert-level forensics challenges with complex attack scenarios.
 
 ## 📈 Progress
 
-**0/5 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/5 completed (0%)**
 
 ---
 

@@ -12,7 +12,7 @@ Beginner forensics challenges. Introduction to evidence analysis and log reading
 
 ## 📈 Progress
 
-**1/20 completed (5%)**
+🟦⬜⬜⬜⬜ | **1/20 completed (5%)**
 
 ---
 

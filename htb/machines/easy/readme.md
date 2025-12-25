@@ -16,7 +16,7 @@ Beginner-level penetration testing challenges. Focus on fundamental concepts and
 
 ## Progress
 
-**0/151 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/151 completed (0%)**
 
 ---
 

@@ -12,7 +12,7 @@ Foundational forensics challenges. Develop systematic analysis and evidence corr
 
 ## 📈 Progress
 
-**0/51 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/51 completed (0%)**
 
 ---
 

@@ -12,7 +12,7 @@ Advanced forensics challenges. Require deep system knowledge and sophisticated a
 
 ## 📈 Progress
 
-**0/20 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/20 completed (0%)**
 
 ---
 

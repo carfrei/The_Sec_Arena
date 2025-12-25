@@ -16,7 +16,7 @@ Advanced penetration testing challenges. Require deep exploitation knowledge, cu
 
 ## Progress
 
-*(Machines completed will be listed here)*
+⬜⬜⬜⬜⬜ | **0/117 completed (0%)**
 
 | Machine | Platform | Category | Date | Status |
 |---------|----------|----------|------|--------|

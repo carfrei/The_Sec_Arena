@@ -16,7 +16,7 @@ Intermediate-level penetration testing challenges. Require combination of enumer
 
 ## Progress
 
-*(Machines completed will be listed here)*
+⬜⬜⬜⬜⬜ | **0/175 completed (0%)**
 
 | Machine | Platform | Category | Date | Status |
 |---------|----------|----------|------|--------|

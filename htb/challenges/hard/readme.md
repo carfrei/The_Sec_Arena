@@ -12,7 +12,7 @@ Advanced programming, cryptography, and reverse engineering challenges.
 
 ## 📈 Progress
 
-**0/93 completed (0%)**
+⬜⬜⬜⬜⬜ | **0/93 completed (0%)**
 
 ---
 
