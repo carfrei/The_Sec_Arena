@@ -12,16 +12,17 @@ Beginner machines focused on foundational concepts. Introduction to basic networ
 
 ## 📈 Progress
 
-🟦🟦⬜⬜⬜ | **2/10 completed (20%)**
+🟦🟦🟦⬜⬜ | **3/10 completed (30%)**
 
 ---
 
 ## 📋 Machines
 
-| # | Machine | Category | Status |
-|---|---------|----------|--------|
-| 01 | [Meow](01_Meow/readme.md) | Networking / Telnet / Weak Auth | ✅ Complete |
-| 02 | [Fawn](02_Fawn/readme.md) | File Transfer / FTP / Anonymous Login | ✅ Complete |
+| # | Machine | Category | OS | Status |
+|---|---------|----------|----|----|
+| 01 | [Meow](01_Meow/readme.md) | Networking / Telnet / Weak Auth | Linux | ✅ Complete |
+| 02 | [Fawn](02_Fawn/readme.md) | File Transfer / FTP / Anonymous | Linux | ✅ Complete |
+| 03 | [Dancing](03_Dancing/readme.md) | SMB / File Shares / Anonymous | Windows | ✅ Complete |
 
 ---
 
