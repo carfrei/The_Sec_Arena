@@ -12,7 +12,7 @@ Beginner forensics challenges. Introduction to evidence analysis and log reading
 
 ## 📈 Progress
 
-🟦⬜⬜⬜⬜ | **1/20 completed (5%)**
+🟦🟦⬜⬜⬜ | **2/20 completed (10%)**
 
 ---
 
@@ -21,6 +21,7 @@ Beginner forensics challenges. Introduction to evidence analysis and log reading
 | # | Challenge | Category | Status |
 |---|-----------|----------|--------|
 | 01 | [Brutus](01_Brutus/readme.md) | Forensics / Log Analysis | ✅ Complete |
+| 02 | [DreamJob-2](02_DreamJob/readme.md) | Malware Analysis / Operation North Star | ✅ 12/13 (92%) |
 
 ---
 
