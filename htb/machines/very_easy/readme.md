@@ -12,7 +12,7 @@ Beginner machines focused on foundational concepts. Introduction to basic networ
 
 ## 📈 Progress
 
-🟦⬜⬜⬜⬜ | **1/10 completed (10%)**
+🟦🟦⬜⬜⬜ | **2/10 completed (20%)**
 
 ---
 
@@ -21,6 +21,7 @@ Beginner machines focused on foundational concepts. Introduction to basic networ
 | # | Machine | Category | Status |
 |---|---------|----------|--------|
 | 01 | [Meow](01_Meow/readme.md) | Networking / Telnet / Weak Auth | ✅ Complete |
+| 02 | [Fawn](02_Fawn/readme.md) | File Transfer / FTP / Anonymous Login | ✅ Complete |
 
 ---
 
