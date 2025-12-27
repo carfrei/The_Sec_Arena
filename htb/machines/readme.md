@@ -9,11 +9,11 @@ Full penetration tests of HackTheBox and other platform machines, organized by d
 | Difficulty | Progress | Count |
 |-----------|----------|-------|
 | **Very Easy** | 🟦🟦🟦⬜⬜ | 3/10 (30%) |
-| **Easy** | ⬜⬜⬜⬜⬜ | 0/151 (0%) |
+| **Easy** | 🟦⬜⬜⬜⬜ | 1/151 (1%) |
 | **Medium** | ⬜⬜⬜⬜⬜ | 0/175 (0%) |
 | **Hard** | ⬜⬜⬜⬜⬜ | 0/117 (0%) |
 | **Insane** | ⬜⬜⬜⬜⬜ | 0/66 (0%) |
-| **Total** | 🟦🟦🟦⬜⬜ | **3/519 (0.6%)** |
+| **Total** | 🟦🟦🟦🟦⬜ | **4/519 (0.8%)** |
 
 ---
 
@@ -22,7 +22,7 @@ Full penetration tests of HackTheBox and other platform machines, organized by d
 | Difficulty | Completed | Details |
 |-----------|-----------|---------|
 | **Very Easy** ⭐ | 1/10 | [View →](very_easy/readme.md) |
-| **Easy** | 0/151 | [View →](easy/readme.md) |
+| **Easy** | 1/151 | [View →](easy/readme.md) |
 | **Medium** | 0/175 | [View →](medium/readme.md) |
 | **Hard** | 0/117 | [View →](hard/readme.md) |
 | **Insane** 🔥 | 0/66 | [View →](insane/readme.md) |

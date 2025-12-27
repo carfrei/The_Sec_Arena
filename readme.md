@@ -17,13 +17,13 @@ Repository documenting my journey in offensive and defensive cybersecurity. This
 
 | Platform | Progress | Count | Link |
 |----------|----------|-------|------|
-| **HackTheBox** | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ | 5/1452 (0.3%) | [View →](htb/) |
+| **HackTheBox** | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ | 6/1452 (0.4%) | [View →](htb/) |
 | **OverTheWire** | ⬜⬜⬜⬜⬜ | 0/59 (0%) | [View →](overthewire/) |
 | **PicoCTF** | ⬜⬜⬜⬜⬜ | 0/100 (0%) | [View →](picoctf/) |
 | **VulnHub** | ⬜⬜⬜⬜⬜ | 0/500 (0%) | [View →](vulnhub/) |
 | **Tools** | 🟦⬜⬜⬜⬜ | 1/5 (ALPHA) | [View →](tools/) |
 
-**Grand Total:** 5/2111+ (0.24%)
+**Grand Total:** 6/2111+ (0.28%)
 
 *Portfolio in active development - tracking progress publicly for accountability*
 
