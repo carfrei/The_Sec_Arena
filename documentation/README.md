@@ -18,6 +18,9 @@ Public documentation for The Sec Arena security portfolio.
 - **[RESOURCES.md](RESOURCES.md)** - Learning platforms, tools, and references
 - **[GLOSSARY.md](GLOSSARY.md)** - Security terminology quick reference
 
+### Detailed Guides
+- **[MONITORSFOUR_DETAILED_GUIDE.md](MONITORSFOUR_DETAILED_GUIDE.md)** - Step-by-step exploitation guide for Easy machine (PHP type juggling → Cacti RCE → Docker escape)
+
 ---
 
 ## 🎯 Quick Navigation

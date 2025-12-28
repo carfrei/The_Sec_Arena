@@ -12,7 +12,7 @@ Beginner machines focused on foundational concepts. Introduction to basic networ
 
 ## 📈 Progress
 
-🟦🟦🟦⬜⬜ | **3/10 completed (30%)**
+🟦🟦⬜⬜⬜ | **3/10 completed (30%)**
 
 ---
 

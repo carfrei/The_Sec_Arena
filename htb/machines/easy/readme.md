@@ -13,7 +13,7 @@ Intermediate machines requiring exploitation techniques, privilege escalation, a
 
 ## 📈 Progress
 
-🟦⬜⬜⬜⬜ | **1/151 completed (1%)**
+⬜⬜⬜⬜⬜ | **1/151 completed (1%)**
 
 ---
 

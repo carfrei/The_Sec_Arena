@@ -4,8 +4,13 @@
 .env.*.local
 .env.production
 
-# Documentation (Templates are private, docs/ structure is public)
+# Documentation - PERSONAL/PRIVATE (do not track)
+# Use: documentation/ for public docs instead
+docs/
 docs
+docs/**
+
+# Public documentation is tracked in: documentation/
 
 # Logs
 *.log
