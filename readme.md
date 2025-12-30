@@ -17,13 +17,13 @@ Repository documenting my journey in offensive and defensive cybersecurity. This
 
 | Platform | Progress | Count | Link |
 |----------|----------|-------|------|
-| **HackTheBox** | 🟦⬜⬜⬜⬜ | 5/1452 (0.3%) | [View →](htb/) |
+| **HackTheBox** | 🟦🟦⬜⬜⬜ | 6/1452 (0.4%) | [View →](htb/) |
 | **OverTheWire** | ⬜⬜⬜⬜⬜ | 0/59 (0%) | [View →](overthewire/) |
 | **PicoCTF** | ⬜⬜⬜⬜⬜ | 0/100 (0%) | [View →](picoctf/) |
 | **VulnHub** | ⬜⬜⬜⬜⬜ | 0/500 (0%) | [View →](vulnhub/) |
 | **Tools** | 🟦⬜⬜⬜⬜ | 1/5 (ALPHA) | [View →](tools/) |
 
-**Grand Total:** 5/2111+ (0.24%)
+**Grand Total:** 6/2111+ (0.29%)
 
 *Portfolio in active development - tracking progress publicly for accountability*
 
@@ -32,7 +32,7 @@ Repository documenting my journey in offensive and defensive cybersecurity. This
 
 Organized by platform to support multiple learning sources:
 
-- 🎓 **[HackTheBox](htb/)** - Sherlocks, Machines, Challenges (5/1452 completed)
+- 🎓 **[HackTheBox](htb/)** - Sherlocks, Machines, Challenges (6/1452 completed)
 - 🎮 **[OverTheWire](overthewire/)** - Wargames (Bandit, Natas, Leviathan, Krypton)
 - 🏆 **[PicoCTF](picoctf/)** - CTF challenges by category
 - 💀 **[VulnHub](vulnhub/)** - Vulnerable VMs for local exploitation
@@ -47,7 +47,7 @@ Organized by platform to support multiple learning sources:
 
 | Category | Platform | Completed | Details |
 |----------|----------|-----------|---------|
-| 🔍 **Sherlocks** | HackTheBox | 4/129 | [View →](htb/sherlocks/readme.md) |
+| 🔍 **Sherlocks** | HackTheBox | 5/129 | [View →](htb/sherlocks/readme.md) |
 | 🖥️ **Machines** | HackTheBox | 0/509 | [View →](htb/machines/readme.md) |
 | 🎯 **Challenges** | HackTheBox | 0/804 | [View →](htb/challenges/readme.md) |
 | 📚 **Courses** | TryHackMe | 0 | Coming soon |
