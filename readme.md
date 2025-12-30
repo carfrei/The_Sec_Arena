@@ -18,12 +18,13 @@ Repository documenting my journey in offensive and defensive cybersecurity. This
 | Platform | Progress | Count | Link |
 |----------|----------|-------|------|
 | **HackTheBox** | 🟦🟦⬜⬜⬜ | 7/1452 (0.5%) | [View →](htb/) |
+| **TryHackMe** | 🟦⬜⬜⬜⬜ | 1/25 (4%) | [View →](THM/readme.md) |
 | **OverTheWire** | ⬜⬜⬜⬜⬜ | 0/59 (0%) | [View →](overthewire/) |
 | **PicoCTF** | ⬜⬜⬜⬜⬜ | 0/100 (0%) | [View →](picoctf/) |
 | **VulnHub** | ⬜⬜⬜⬜⬜ | 0/500 (0%) | [View →](vulnhub/) |
 | **Tools** | 🟦⬜⬜⬜⬜ | 1/5 (ALPHA) | [View →](tools/) |
 
-**Grand Total:** 7/2111+ (0.33%)
+**Grand Total:** 8/2111+ (0.38%)
 
 *Portfolio in active development - tracking progress publicly for accountability*
 
@@ -178,6 +179,10 @@ Organized by platform to support multiple learning sources:
 ### HackTheBox Profile
 
 ![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
+
+### TryHackMe Profile
+![THM Badge] <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6562574" style='border:none;'></iframe>
+
 
 *Profile actively tracking HTB progress and security research journey*
 
