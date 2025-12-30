@@ -181,7 +181,7 @@ Organized by platform to support multiple learning sources:
 ![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
 
 ### TryHackMe Profile
-![THM Badge] <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6562574" style='border:none;'></iframe>
+![THM Badge]("https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6562574")
 
 
 *Profile actively tracking HTB progress and security research journey*
