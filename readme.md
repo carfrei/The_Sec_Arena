@@ -184,7 +184,7 @@ Organized by platform to support multiple learning sources:
 
 [![THM Badge](https://tryhackme-badges.s3.amazonaws.com/DrCarfrei.png)](https://tryhackme.com/p/DrCarfrei)
 
-*Profilse actively tracking HTB/THM progress and security research journey*
+*Profiles actively tracking HTB/THM progress and security research journey*
 ---
 
 **Last Updated:** December 2025 | **Status:** 🌱 Active Learning | **Location:** Quito, Ecuador 🇪🇨 | **License:** MIT
