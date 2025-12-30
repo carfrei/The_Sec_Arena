@@ -1,4 +1,5 @@
 # HackTheBox Sherlock: DreamJob-2
+[← Back to Very Easy Sherlocks](../readme.md) | [← Back to HTB Root](../../readme.md)
 **Operation North Star Investigation**
 
 ## Challenge Overview
@@ -176,3 +177,12 @@ All questions answered and submitted successfully to HTB platform.
 
 **Write-up Completed:** December 25, 2025  
 **Challenge Difficulty:** Very Easy ✓
+
+---
+
+[← Back to Very Easy Sherlocks](../readme.md) | [← Back to HTB Root](../../readme.md)
+
+---
+
+## Completion Badge
+<a href="https://labs.hackthebox.com/achievement/sherlock/2991649/1051" target="_blank">HTB Achievement - DreamJob-2</a>

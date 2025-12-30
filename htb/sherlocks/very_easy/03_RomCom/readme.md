@@ -1,4 +1,5 @@
 # HackTheBox Sherlock: RomCom
+[← Back to Very Easy Sherlocks](../readme.md) | [← Back to HTB Root](../../readme.md)
 
 **Difficulty:** Very Easy ⭐ | **Rating:** 4.5/5 (47 ratings)  
 **Category:** DFIR & Threat Intelligence | **Focus:** WinRAR Vulnerability Analysis  
@@ -497,3 +498,12 @@ All 10 tasks answered correctly with comprehensive forensic analysis.
 **Sherlock Difficulty:** Very Easy ⭐  
 **Category:** DFIR / Threat Intelligence  
 **Time to Complete:** ~45 minutes
+
+---
+
+[← Back to Very Easy Sherlocks](../readme.md) | [← Back to HTB Root](../../readme.md)
+
+---
+
+## Completion Badge
+<a href="https://labs.hackthebox.com/achievement/sherlock/2991649/988" target="_blank">HTB Achievement - RomCom</a>

@@ -1,4 +1,5 @@
 # HackTheBox Machine: MonitorsFour
+[← Back to Easy Machines](../readme.md) | [← Back to HTB Root](../../readme.md)
 **PHP Type Juggling & Docker Escape Challenge**
 
 ## Machine Overview
@@ -757,3 +758,12 @@ Both user and root flags captured. Full attack chain executed successfully.
 **Time to Complete:** 1-2 hours  
 **Status:** Active (Current Lab)  
 **Key Learning:** Multi-stage exploitation, container escape, API security
+
+---
+
+[← Back to Easy Machines](../readme.md) | [← Back to HTB Root](../../readme.md)
+
+---
+
+## Completion Badge
+<a href="https://labs.hackthebox.com/achievement/machine/2991649/814" target="_blank">HTB Achievement - MonitorsFour</a>

@@ -12,7 +12,7 @@ Beginner forensics challenges. Introduction to evidence analysis and log reading
 
 ## 📈 Progress
 
-🟦⬜⬜⬜⬜ | **3/20 completed (15%)**
+🟦🟦⬜⬜⬜ | **4/20 completed (20%)**
 
 ---
 
@@ -23,6 +23,7 @@ Beginner forensics challenges. Introduction to evidence analysis and log reading
 | 01 | [Brutus](01_Brutus/readme.md) | Forensics / Log Analysis | ✅ 8/8 |
 | 02 | [DreamJob-2](02_DreamJob/readme.md) | Malware Analysis / Operation North Star | ✅ 13/13 |
 | 03 | [RomCom](03_RomCom/readme.md) | DFIR / WinRAR Vulnerability | ✅ 10/10 |
+| 04 | [PhishNet](04_PhishNet/readme.md) | Email Security & Phishing Analysis | ✅ 11/11 |
 
 ---
 
@@ -41,4 +42,4 @@ Beginner forensics challenges. Introduction to evidence analysis and log reading
 
 ---
 
-**Last Updated:** December 27, 2025
+**Last Updated:** December 29, 2025

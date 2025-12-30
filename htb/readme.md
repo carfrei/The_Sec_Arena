@@ -8,10 +8,10 @@ Complete HackTheBox learning path including Sherlocks (forensics), Machines (pen
 
 | Category | Progress | Count |
 |----------|----------|-------|
-| **Sherlocks** | ⬜⬜⬜⬜⬜ | 3/129 (2%) |
-| **Machines** | ⬜⬜⬜⬜⬜ | 4/519 (0.8%) |
+| **Sherlocks** | 🟦🟦⬜⬜⬜ | 4/129 (3%) |
+| **Machines** | 🟦⬜⬜⬜⬜ | 1/519 (0.2%) |
 | **Challenges** | ⬜⬜⬜⬜⬜ | 0/804 (0%) |
-| **Total HTB** | ⬜⬜⬜⬜⬜ | **7/1452 (0.5%)** |
+| **Total HTB** | 🟦⬜⬜⬜⬜ | **5/1452 (0.3%)** |
 
 ---
 
@@ -19,8 +19,8 @@ Complete HackTheBox learning path including Sherlocks (forensics), Machines (pen
 
 | Type | Completed | Details |
 |------|-----------|---------|
-| **Sherlocks** 🔍 | 3/129 | [Forensics & Log Analysis →](sherlocks/readme.md) |
-| **Machines** 🖥️ | 4/519 | [Penetration Testing →](machines/readme.md) |
+| **Sherlocks** 🔍 | 4/129 | [Forensics & Log Analysis →](sherlocks/readme.md) |
+| **Machines** 🖥️ | 1/519 | [Penetration Testing →](machines/readme.md) |
 | **Challenges** 🎯 | 0/804 | [Programming & Crypto →](challenges/readme.md) |
 
 ---
