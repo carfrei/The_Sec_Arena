@@ -12,7 +12,7 @@ Beginner machines focused on foundational concepts. Introduction to basic networ
 
 ## 📈 Progress
 
-🟦🟦⬜⬜⬜ | **3/10 completed (30%)**
+🟦🟦🟦⬜⬜ | **4/10 completed (40%)**
 
 ---
 
@@ -23,6 +23,7 @@ Beginner machines focused on foundational concepts. Introduction to basic networ
 | 01 | [Meow](01_Meow/readme.md) | Networking / Telnet / Weak Auth | Linux | ✅ Complete |
 | 02 | [Fawn](02_Fawn/readme.md) | File Transfer / FTP / Anonymous | Linux | ✅ Complete |
 | 03 | [Dancing](03_Dancing/readme.md) | SMB / File Shares / Anonymous | Windows | ✅ Complete |
+| 04 | [Redeemer](04_Redeemer/readme.md) | Redis Enumeration | Linux | ✅ Complete (Retired) |
 
 ---
 
@@ -42,4 +43,4 @@ Beginner machines focused on foundational concepts. Introduction to basic networ
 
 ---
 
-**Last Updated:** December 26, 2025
+**Last Updated:** December 29, 2025
