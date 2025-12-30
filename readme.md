@@ -181,13 +181,10 @@ Organized by platform to support multiple learning sources:
 ![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
 
 ### TryHackMe Profile
-![THM Badge](https://tryhackme.com/api/v2/badges/public-profile/image?userPublicId=6562574)
 
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-1f6feb)](https://tryhackme.com/p/DrCarfrei)
+[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/DrCarfrei.png)](https://tryhackme.com/p/DrCarfrei)
 
-
-*Profile actively tracking HTB progress and security research journey*
-
+*Profilse actively tracking HTB/THM progress and security research journey*
 ---
 
 **Last Updated:** December 2025 | **Status:** 🌱 Active Learning | **Location:** Quito, Ecuador 🇪🇨 | **License:** MIT
