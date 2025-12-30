@@ -181,7 +181,9 @@ Organized by platform to support multiple learning sources:
 ![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
 
 ### TryHackMe Profile
-![THM Badge]("https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6562574")
+![THM Badge](https://tryhackme.com/api/v2/badges/public-profile/image?userPublicId=6562574)
+
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-1f6feb)](https://tryhackme.com/p/DrCarfrei)
 
 
 *Profile actively tracking HTB progress and security research journey*
