@@ -79,4 +79,4 @@ de esta manera eh podido encontrar el lugar adecuado sin buscar por todos lados 
 mediante el comando **cat ./"maybehere07"/.file2**
 eh encontrado el pass para el siguiente nivel.
 
-**nivel 5**
+**nivel 6**
