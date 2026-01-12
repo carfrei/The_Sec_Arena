@@ -43,4 +43,4 @@ Beginner machines focused on foundational concepts. Introduction to basic networ
 
 ---
 
-**Last Updated:** December 29, 2025
+**Last Updated:** January 12, 2026

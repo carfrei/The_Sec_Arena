@@ -33,4 +33,4 @@ Linear progression wargames focusing on fundamentals and Unix/Linux skills.
 
 ---
 
-**Last Updated:** December 25, 2025
+**Last Updated:** January 12, 2026

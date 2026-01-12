@@ -41,7 +41,7 @@ Intermediate machines requiring exploitation techniques, privilege escalation, a
 
 ---
 
-**Last Updated:** December 26, 2025
+**Last Updated:** January 12, 2026
 
 ## Target Platforms
 
@@ -77,4 +77,4 @@ Intermediate machines requiring exploitation techniques, privilege escalation, a
 
 ---
 
-**Last Updated:** December 25, 2025
+**Last Updated:** January 12, 2026

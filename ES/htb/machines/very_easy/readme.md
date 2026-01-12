@@ -43,4 +43,4 @@ Máquinas para principiantes enfocadas en conceptos fundamentales. Introducción
 
 ---
 
-**Última Actualización:** 29 de diciembre de 2025
+**Última Actualización:** 12 de enero de 2026

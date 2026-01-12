@@ -59,4 +59,4 @@ Advanced penetration testing challenges. Require deep exploitation knowledge, cu
 
 ---
 
-**Last Updated:** December 25, 2025
+**Last Updated:** January 12, 2026

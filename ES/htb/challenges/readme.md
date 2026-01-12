@@ -44,4 +44,4 @@ A través de estos desafíos, estoy desarrollando:
 
 ---
 
-**Última Actualización:** 25 de diciembre de 2025
+**Última Actualización:** 12 de enero de 2026

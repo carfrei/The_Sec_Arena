@@ -41,4 +41,4 @@ Máquinas intermedias que requieren técnicas de explotación, escalación de pr
 
 ---
 
-**Última Actualización:** 26 de diciembre de 2025
+**Última Actualización:** 12 de enero de 2026

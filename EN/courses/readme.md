@@ -86,4 +86,4 @@ Course-specific notes and key concepts are documented in private `docs/` folder 
 
 ---
 
-**Last Updated:** December 25, 2025
+**Last Updated:** January 12, 2026

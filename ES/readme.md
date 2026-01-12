@@ -187,4 +187,4 @@ Organizado por plataforma para soportar múltiples fuentes de aprendizaje:
 *Perfiles rastreando activamente el progreso HTB/THM y el viaje de investigación de seguridad*
 ---
 
-**Última Actualización:** Diciembre 2025 | **Estado:** 🌱 Aprendizaje Activo | **Ubicación:** Quito, Ecuador 🇪🇨 | **Licencia:** MIT
+**Última Actualización:** 12 de enero de 2026 | **Estado:** 🌱 Aprendizaje Activo | **Ubicación:** Quito, Ecuador 🇪🇨 | **Licencia:** MIT

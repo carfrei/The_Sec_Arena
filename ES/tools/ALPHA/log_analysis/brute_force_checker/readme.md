@@ -59,7 +59,7 @@ sudo ./brute_force_checker.sh /tmp/test.log 5
 
 ```
 === Reporte de Detección de Fuerza Bruta ===
-Log: /var/log/auth.log | Umbral: 10 intentos | Fecha: Wed Dec 25 10:30:22 UTC 2025
+Log: /var/log/auth.log | Umbral: 10 intentos | Fecha: Wed Jan 12 10:30:22 UTC 2026
 
 [*] Intentos de inicio de sesión fallidos por IP:
   45 203.0.113.10 [SUSPICIOUS]

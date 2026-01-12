@@ -106,5 +106,5 @@ Esta documentación es **únicamente para fines educativos**. Todas las técnica
 
 ---
 
-*Última Actualización: 11 de enero de 2026*
+*Última Actualización: 12 de enero de 2026*
 *Creado como parte del portafolio The Sec Arena*

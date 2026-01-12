@@ -60,4 +60,4 @@ Reportar problemas o sugerencias para cada herramienta en su propio README bajo 
 
 ---
 
-**Última Actualización:** 25 de diciembre de 2025
+**Última Actualización:** 12 de enero de 2026

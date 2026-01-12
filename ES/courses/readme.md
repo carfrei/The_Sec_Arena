@@ -86,4 +86,4 @@ Las notas específicas de cursos y conceptos clave están documentadas en la car
 
 ---
 
-**Última Actualización:** 25 de diciembre de 2025
+**Última Actualización:** 12 de enero de 2026

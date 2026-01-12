@@ -61,4 +61,4 @@ Report issues or suggestions for each tool in its own README under "Known Issues
 
 ---
 
-**Last Updated:** December 25, 2025
+**Last Updated:** January 12, 2026

@@ -53,4 +53,4 @@ Ruta de aprendizaje completa de HackTheBox incluyendo Sherlocks (forensics), Mac
 
 ---
 
-**Última Actualización:** 27 de diciembre de 2025
+**Última Actualización:** 12 de enero de 2026

@@ -45,4 +45,4 @@ A través de estos desafíos Sherlock, estoy desarrollando:
 
 ---
 
-**Última Actualización:** 27 de diciembre de 2025
+**Última Actualización:** 12 de enero de 2026

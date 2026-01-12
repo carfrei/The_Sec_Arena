@@ -42,4 +42,4 @@ Vulnerable virtual machines for realistic penetration testing practice.
 
 ---
 
-**Last Updated:** December 25, 2025
+**Last Updated:** January 12, 2026

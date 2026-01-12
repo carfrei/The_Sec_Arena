@@ -53,4 +53,4 @@ Complete HackTheBox learning path including Sherlocks (forensics), Machines (pen
 
 ---
 
-**Last Updated:** December 27, 2025
+**Last Updated:** January 12, 2026

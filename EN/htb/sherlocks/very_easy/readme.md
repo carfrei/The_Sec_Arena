@@ -43,4 +43,4 @@ Beginner forensics challenges. Introduction to evidence analysis and log reading
 
 ---
 
-**Last Updated:** December 29, 2025
+**Last Updated:** January 12, 2026

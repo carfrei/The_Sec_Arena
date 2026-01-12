@@ -1,190 +1,190 @@
 # 🛡️ The Sec Arena
 
-**DrCarfrei - Cybersecurity Researcher & Developer | Ethical Hacker | Security Analyst**
+**DrCarfrei - Investigador y Desarrollador de Ciberseguridad | Hacker Ético | Analista de Seguridad**
 
-Repository documenting my journey in offensive and defensive cybersecurity. This space showcases hands-on labs, pentesting projects, security research, vulnerability analysis, and tool development focused on real-world security scenarios.
+Repositorio que documenta mi camino en ciberseguridad ofensiva y defensiva. Este espacio muestra laboratorios prácticos, proyectos de pentesting, investigación de seguridad, análisis de vulnerabilidades y desarrollo de herramientas enfocadas en escenarios de seguridad del mundo real.
 
-📊 **Current Focus:**
-- 🎯 **Active Learning** Web Application Security, Network Security, Cloud Security
-- 📚 **Documenting** Labs, CTFs, and real-world scenarios
-- 🔧 **Developing** Security tools, automation scripts, and exploitation frameworks
-- 🤝 **100% Ethical** - All activities with proper authorization and educational intent
+📊 **Enfoque Actual:**
+- 🎯 **Aprendizaje Activo** Web Application Security, Network Security, Cloud Security
+- 📚 **Documentando** Labs, CTFs y escenarios del mundo real
+- 🔧 **Desarrollando** Herramientas de seguridad, scripts de automatización y frameworks de explotación
+- 🤝 **100% Ético** - Todas las actividades con autorización apropiada e intención educativa
 
 ---
-## 📈 Challenge Progress
+## 📈 Progreso de Desafíos
 
-**Tracking my journey toward mastery across multiple platforms:**
+**Rastreando mi camino hacia la maestría en múltiples plataformas:**
 
-| Platform | Progress | Count | Link |
+| Plataforma | Progreso | Conteo | Enlace |
 |----------|----------|-------|------|
-| **HackTheBox** | 🟦🟦⬜⬜⬜ | 7/1452 (0.5%) | [View →](htb/) |
-| **TryHackMe** | 🟦⬜⬜⬜⬜ | 1/25 (4%) | [View →](THM/readme.md) |
-| **OverTheWire** | ⬜⬜⬜⬜⬜ | 0/59 (0%) | [View →](overthewire/) |
-| **PicoCTF** | ⬜⬜⬜⬜⬜ | 0/100 (0%) | [View →](picoctf/) |
-| **VulnHub** | ⬜⬜⬜⬜⬜ | 0/500 (0%) | [View →](vulnhub/) |
-| **Tools** | 🟦⬜⬜⬜⬜ | 1/5 (ALPHA) | [View →](tools/) |
+| **HackTheBox** | 🟦🟦⬜⬜⬜ | 7/1452 (0.5%) | [Ver →](htb/) |
+| **TryHackMe** | 🟦⬜⬜⬜⬜ | 1/25 (4%) | [Ver →](THM/readme.md) |
+| **OverTheWire** | ⬜⬜⬜⬜⬜ | 0/59 (0%) | [Ver →](overthewire/) |
+| **PicoCTF** | ⬜⬜⬜⬜⬜ | 0/100 (0%) | [Ver →](picoctf/) |
+| **VulnHub** | ⬜⬜⬜⬜⬜ | 0/500 (0%) | [Ver →](vulnhub/) |
+| **Tools** | 🟦⬜⬜⬜⬜ | 1/5 (ALPHA) | [Ver →](tools/) |
 
-**Grand Total:** 8/2111+ (0.38%)
+**Total General:** 8/2111+ (0.38%)
 
-*Portfolio in active development - tracking progress publicly for accountability*
+*Portafolio en desarrollo activo - rastreando el progreso públicamente para rendición de cuentas*
 
 ---
-## � Repository Structure
+## 📂 Estructura del Repositorio
 
-Organized by platform to support multiple learning sources:
+Organizado por plataforma para soportar múltiples fuentes de aprendizaje:
 
-- 🎓 **[HackTheBox](htb/)** - Sherlocks, Machines, Challenges (7/1452 completed)
+- 🎓 **[HackTheBox](htb/)** - Sherlocks, Machines, Challenges (7/1452 completados)
 - 🎮 **[OverTheWire](overthewire/)** - Wargames (Bandit, Natas, Leviathan, Krypton)
-- 🏆 **[PicoCTF](picoctf/)** - CTF challenges by category
-- 💀 **[VulnHub](vulnhub/)** - Vulnerable VMs for local exploitation
-- 🛠️ **[Tools](tools/)** - Custom security utilities (ALPHA)
-- 📚 **[Documentation](docs/)** - Workflow and standards
+- 🏆 **[PicoCTF](picoctf/)** - Desafíos CTF por categoría
+- 💀 **[VulnHub](vulnhub/)** - VMs vulnerables para explotación local
+- 🛠️ **[Tools](tools/)** - Utilidades de seguridad personalizadas (ALPHA)
+- 📚 **[Documentation](docs/)** - Flujo de trabajo y estándares
 
 ---
 
-## 🎯 Learning Categories
+## 🎯 Categorías de Aprendizaje
 
-**Status Overview:**
+**Vista General del Estado:**
 
-| Category | Platform | Completed | Details |
+| Categoría | Plataforma | Completados | Detalles |
 |----------|----------|-----------|---------|
-| 🔍 **Sherlocks** | HackTheBox | 5/129 | [View →](htb/sherlocks/readme.md) |
-| 🖥️ **Machines** | HackTheBox | 2/519 | [View →](htb/machines/readme.md) |
-| 🎯 **Challenges** | HackTheBox | 0/804 | [View →](htb/challenges/readme.md) |
-| 📚 **Courses** | TryHackMe | 0 | Coming soon |
-| 🛠️ **Tools** | Custom | 1 (ALPHA) | [View →](tools/readme.md) |
+| 🔍 **Sherlocks** | HackTheBox | 5/129 | [Ver →](htb/sherlocks/readme.md) |
+| 🖥️ **Machines** | HackTheBox | 2/519 | [Ver →](htb/machines/readme.md) |
+| 🎯 **Challenges** | HackTheBox | 0/804 | [Ver →](htb/challenges/readme.md) |
+| 📚 **Cursos** | TryHackMe | 0 | Próximamente |
+| 🛠️ **Tools** | Personalizado | 1 (ALPHA) | [Ver →](tools/readme.md) |
 
-### Quick Stats
-- **Total Completed:** 1/1442 (0.1%)
+### Estadísticas Rápidas
+- **Total Completados:** 1/1442 (0.1%)
 - **HackTheBox:** 1/1442 total (Sherlocks: 1/129, Machines: 0/509, Challenges: 0/804)
-- **Focus:** Forensics, Web Security, Programming, Cryptography, Reverse Engineering
+- **Enfoque:** Forensics, Web Security, Programming, Cryptography, Reverse Engineering
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Stack Técnico
 
-### Penetration Testing Tools
+### Herramientas de Penetration Testing
 - **Web:** Burp Suite Community, OWASP ZAP, Nikto, SQLMap
 - **Network:** Nmap, Wireshark, tcpdump, Netcat
 - **Exploitation:** Metasploit Framework, SearchSploit
 - **Scripting:** Python, Bash
 
-### Security Frameworks & Methodologies
+### Frameworks y Metodologías de Seguridad
 - **OWASP Top 10** - Web Application Security
 - **PTES** - Penetration Testing Execution Standard
-- **MITRE ATT&CK** - Threat modeling and adversary tactics
-- **Kill Chain Analysis** - Attack flow documentation
+- **MITRE ATT&CK** - Modelado de amenazas y tácticas del adversario
+- **Kill Chain Analysis** - Documentación del flujo de ataque
 
-### Practice Platforms
+### Plataformas de Práctica
 - **CTF:** HackTheBox, TryHackMe, PentesterLab
 - **Labs:** PortSwigger Web Security Academy, DVWA
 - **Bug Bounty:** HackerOne, Bugcrowd
 
-### Operating Systems & Environments
+### Sistemas Operativos y Entornos
 - **Penetration:** Kali Linux, Parrot OS
-- **Infrastructure:** Ubuntu Server, CentOS
-- **Virtualization:** VirtualBox, Proxmox
+- **Infraestructura:** Ubuntu Server, CentOS
+- **Virtualización:** VirtualBox, Proxmox
 
-### Programming Languages
-- **Scripting:** Python (security tools, automation)
+### Lenguajes de Programación
+- **Scripting:** Python (herramientas de seguridad, automatización)
 - **Exploitation:** Bash, Python
-- **Web Security:** JavaScript (client-side analysis)
-- **Databases:** SQL (injection testing)
+- **Web Security:** JavaScript (análisis del lado del cliente)
+- **Bases de datos:** SQL (pruebas de inyección)
 
 ---
 
-## 💻 Primary Workstation
+## 💻 Estación de Trabajo Principal
 
 - **OS:** Parrot Security OS 6.4 (Lorikeet)
 - **Kernel:** Linux
-- **Pre-installed Tools:** Full penetration testing suite
-- **Architecture:** Ready for offensive and defensive security research
+- **Herramientas Preinstaladas:** Suite completa de penetration testing
+- **Arquitectura:** Lista para investigación de seguridad ofensiva y defensiva
 
 ---
 
-## 🏆 Active Learning Platforms
+## 🏆 Plataformas de Aprendizaje Activo
 
-- 🎯 **HackTheBox** - Real-world penetration testing challenges
-- 📚 **TryHackMe** - Structured security learning paths
-- 🔬 **PortSwigger Web Security Academy** - Industry-standard web security labs
-
----
+- 🎯 **HackTheBox** - Desafíos de penetration testing del mundo real
+- 📚 **TryHackMe** - Rutas de aprendizaje estructuradas de seguridad
+- 🔬 **PortSwigger Web Security Academy** - Labs de seguridad web estándar de la industria
 
 ---
 
-## 🎯 Active Focus Areas
+---
 
-| Focus Area | Status | Key Concepts |
+## 🎯 Áreas de Enfoque Activo
+
+| Área de Enfoque | Estado | Conceptos Clave |
 |-----------|--------|--------------|
-| **Web Application Security** | 🔄 Active | OWASP Top 10, SQLi, XSS, CSRF, IDOR, XXE |
-| **Network Security** | 🔄 Active | Port scanning, Service enumeration, Protocol analysis |
-| **Linux Hardening** | 🔄 Active | Privilege escalation, File permissions, Security configs |
-| **Scripting & Automation** | 🔄 Active | Python tools, Bash automation, Exploit development |
-| **API Security** | 📋 Planned | REST/GraphQL testing, JWT, Rate limiting, OWASP |
-| **Cloud Security** | 📋 Planned | AWS/Azure security, IAM, Misconfigurations |
-| **Mobile Security** | 📋 Planned | Android/iOS basics, APK analysis, Frida |
+| **Web Application Security** | 🔄 Activo | OWASP Top 10, SQLi, XSS, CSRF, IDOR, XXE |
+| **Network Security** | 🔄 Activo | Port scanning, Service enumeration, Protocol analysis |
+| **Linux Hardening** | 🔄 Activo | Privilege escalation, File permissions, Security configs |
+| **Scripting & Automation** | 🔄 Activo | Python tools, Bash automation, Exploit development |
+| **API Security** | 📋 Planificado | REST/GraphQL testing, JWT, Rate limiting, OWASP |
+| **Cloud Security** | 📋 Planificado | AWS/Azure security, IAM, Misconfigurations |
+| **Mobile Security** | 📋 Planificado | Android/iOS basics, APK analysis, Frida |
 
 ---
 
-## 📚 Learning Resources
+## 📚 Recursos de Aprendizaje
 
-### Platforms & Courses
-- 🎓 **HackTheBox Academy** - Structured modules on web and network security
-- 🎓 **TryHackMe** - Interactive learning paths
-- 🎓 **PortSwigger Web Security Academy** - Free comprehensive labs
-- 🎓 **OWASP** - Documentation and security guidelines
+### Plataformas y Cursos
+- 🎓 **HackTheBox Academy** - Módulos estructurados sobre seguridad web y de red
+- 🎓 **TryHackMe** - Rutas de aprendizaje interactivas
+- 🎓 **PortSwigger Web Security Academy** - Labs integrales gratuitos
+- 🎓 **OWASP** - Documentación y guías de seguridad
 
-### Recommended Reading
+### Lectura Recomendada
 - 📖 **The Web Application Hacker's Handbook**
 - 📖 **Hacking: The Art of Exploitation**
 - 📖 **OWASP Testing Guide**
 - 📖 **MITRE ATT&CK Framework**
 
-### Communities
+### Comunidades
 - 💬 **HackTheBox Forums**
 - 💬 **OWASP Community**
 - 💬 **Security Stack Exchange**
 ---
 
-## 🔐 Legal & Ethics Notice
+## 🔐 Aviso Legal y Ético
 
-> **IMPORTANT:** All projects, tools, and techniques presented in this repository are for **educational and security research purposes only**.
+> **IMPORTANTE:** Todos los proyectos, herramientas y técnicas presentadas en este repositorio son **únicamente con fines educativos y de investigación de seguridad**.
 >
-> - ✅ **Ethical Hacking**: All testing conducted in controlled environments or with explicit authorization
-> - ✅ **Responsible Disclosure**: Following best practices for vulnerability reporting
-> - ✅ **Legal Compliance**: Respecting all applicable laws and regulations
-> - ❌ **No Misuse**: Not responsible for unauthorized use of information shared here
+> - ✅ **Hacking Ético**: Todas las pruebas realizadas en entornos controlados o con autorización explícita
+> - ✅ **Divulgación Responsable**: Siguiendo las mejores prácticas para reportar vulnerabilidades
+> - ✅ **Cumplimiento Legal**: Respetando todas las leyes y regulaciones aplicables
+> - ❌ **Sin Uso Indebido**: No responsable por el uso no autorizado de la información compartida aquí
 >
-> Unauthorized testing against systems without explicit permission is **ILLEGAL** and violates ethical hacking principles.
+> Las pruebas no autorizadas contra sistemas sin permiso explícito son **ILEGALES** y violan los principios del hacking ético.
 
 ---
 
-## 📊 2026 Learning Goals
+## 📊 Objetivos de Aprendizaje 2026
 
-- [ ] Complete 50+ machines on HackTheBox/TryHackMe
-- [ ] Master OWASP Top 10 with practical labs
-- [ ] Develop 10+ Python automation scripts
-- [ ] Earn first security certification
-- [ ] Participate in 5+ CTFs
-- [ ] Contribute to open-source security projects
+- [ ] Completar más de 50 máquinas en HackTheBox/TryHackMe
+- [ ] Dominar OWASP Top 10 con labs prácticos
+- [ ] Desarrollar más de 10 scripts de automatización en Python
+- [ ] Obtener la primera certificación de seguridad
+- [ ] Participar en más de 5 CTFs
+- [ ] Contribuir a proyectos de seguridad de código abierto
 
 ---
 
-## 📞 Contact & Profiles
+## 📞 Contacto y Perfiles
 
-- **Handle:** DrCarfrei (White Hat Security Researcher)
+- **Usuario:** DrCarfrei (Investigador de Seguridad White Hat)
 - **Email:** drcarfrei@proton.me
 - **LinkedIn:** https://www.linkedin.com/in/carlos-freiermuth
 
-### HackTheBox Profile
+### Perfil HackTheBox
 
 ![HTB Badge](https://www.hackthebox.com/badge/image/2991649)
 
-### TryHackMe Profile
+### Perfil TryHackMe
 
 [![THM Badge](https://tryhackme-badges.s3.amazonaws.com/DrCarfrei.png)](https://tryhackme.com/p/DrCarfrei)
 
-*Profiles actively tracking HTB/THM progress and security research journey*
+*Perfiles rastreando activamente el progreso HTB/THM y el viaje de investigación de seguridad*
 ---
 
-**Last Updated:** December 2025 | **Status:** 🌱 Active Learning | **Location:** Quito, Ecuador 🇪🇨 | **License:** MIT
+**Última Actualización:** 12 de enero de 2026 | **Estado:** 🌱 Aprendizaje Activo | **Ubicación:** Quito, Ecuador 🇪🇨 | **Licencia:** MIT

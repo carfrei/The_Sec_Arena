@@ -68,4 +68,4 @@ Expert-level penetration testing challenges. Require mastery of exploitation tec
 
 ---
 
-**Last Updated:** December 25, 2025
+**Last Updated:** January 12, 2026

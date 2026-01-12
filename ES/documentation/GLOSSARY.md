@@ -352,4 +352,4 @@ Configuración automática de red (puede exponer servicios).
 
 ---
 
-*Última Actualización: 25 de diciembre de 2025*
+*Última Actualización: 12 de enero de 2026*
