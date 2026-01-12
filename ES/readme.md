@@ -19,12 +19,12 @@ Repositorio que documenta mi camino en ciberseguridad ofensiva y defensiva. Este
 |----------|----------|-------|------|
 | **HackTheBox** | 🟦🟦⬜⬜⬜ | 7/1452 (0.5%) | [Ver →](htb/) |
 | **TryHackMe** | 🟦⬜⬜⬜⬜ | 1/25 (4%) | [Ver →](THM/readme.md) |
-| **OverTheWire** | ⬜⬜⬜⬜⬜ | 0/59 (0%) | [Ver →](overthewire/) |
+| **OverTheWire** | 🟦⬜⬜⬜⬜ | 6/59 (10%) | [Ver →](overthewire/) |
 | **PicoCTF** | ⬜⬜⬜⬜⬜ | 0/100 (0%) | [Ver →](picoctf/) |
 | **VulnHub** | ⬜⬜⬜⬜⬜ | 0/500 (0%) | [Ver →](vulnhub/) |
 | **Tools** | 🟦⬜⬜⬜⬜ | 1/5 (ALPHA) | [Ver →](tools/) |
 
-**Total General:** 8/2111+ (0.38%)
+**Total General:** 15/2111+ (0.71%)
 
 *Portafolio en desarrollo activo - rastreando el progreso públicamente para rendición de cuentas*
 
@@ -51,6 +51,7 @@ Organizado por plataforma para soportar múltiples fuentes de aprendizaje:
 | 🔍 **Sherlocks** | HackTheBox | 5/129 | [Ver →](htb/sherlocks/readme.md) |
 | 🖥️ **Machines** | HackTheBox | 2/519 | [Ver →](htb/machines/readme.md) |
 | 🎯 **Challenges** | HackTheBox | 0/804 | [Ver →](htb/challenges/readme.md) |
+| 🎮 **OverTheWire** | OverTheWire | 6/59 | [Ver →](overthewire/) |
 | 📚 **Cursos** | TryHackMe | 0 | Próximamente |
 | 🛠️ **Tools** | Personalizado | 1 (ALPHA) | [Ver →](tools/readme.md) |
 
