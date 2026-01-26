@@ -17,7 +17,8 @@ Welcome to my cybersecurity learning portfolio.
 
 ### TryHackMe Profile
 
-[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/DrCarfrei.png)](https://tryhackme.com/p/DrCarfrei)
+[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/drcarfrei.png)](https://tryhackme.com/p/drcarfrei)
+
 
 ---
 
